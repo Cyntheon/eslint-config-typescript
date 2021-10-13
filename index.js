@@ -13,9 +13,10 @@ module.exports = {
     "plugin:prettier/recommended"
   ],
   "rules": {
-    "spaced-comment": "off",
     "capitalized-comments": "off",
+    "no-undef": "off",
     "require-jsdoc": "off",
+    "spaced-comment": "off",
     "valid-jsdoc": "off",
     "@typescript-eslint/await-thenable": "warn",
     "@typescript-eslint/consistent-indexed-object-style": [
@@ -36,7 +37,6 @@ module.exports = {
       {
         "disallowPrototype": true
       }
-    ],
-    "no-undef": "off"
+    ]
   }
 };

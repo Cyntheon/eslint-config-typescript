@@ -1,6 +1,6 @@
 {
   "name": "@cyntheon/eslint-config-typescript",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "An ESLint config for TypeScript",
   "homepage": "https://github.com/Cyntheon/eslint-config-typescript",
   "repository": {
