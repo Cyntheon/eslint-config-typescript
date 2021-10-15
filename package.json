@@ -1,6 +1,6 @@
 {
   "name": "@cyntheon/eslint-config-typescript",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "An ESLint config for TypeScript",
   "homepage": "https://github.com/Cyntheon/eslint-config-typescript",
   "repository": {
@@ -30,7 +30,8 @@
     "@types/node": "^16.10.9"
   },
   "peerDependencies": {
-    "eslint": "^7",
-    "prettier": "^2"
+    "eslint": "~7",
+    "prettier": "~2",
+    "typescript": "~4"
   }
 }
